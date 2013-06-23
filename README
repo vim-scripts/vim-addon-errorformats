@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4630
+
+Vim has the :compiler command built in. However sometimes you only want one or more error formats setup. That's what this plugin is about: It allows you to
+
+:Errorformat ocaml-simple ruby
+which will set 'errorformat' to ocmal-simple then amend ruby error format description.
+
+This is useful if you build an ocaml project using the rake build system which is implemented in ruby

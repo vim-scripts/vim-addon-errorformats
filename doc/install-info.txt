@@ -1,0 +1,2 @@
+get from github.com/MarcWeber/vim-addon-errorformats
+or install using vim-addon-manager
